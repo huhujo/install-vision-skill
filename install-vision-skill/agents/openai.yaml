@@ -1,0 +1,4 @@
+interface:
+  display_name: "Install Vision Skill"
+  short_description: "新电脑上安装配置 vision 视觉技能与阿里云 MaaS 端点"
+  default_prompt: "Use $install-vision-skill to install and configure the vision skill with my Aliyun MaaS API key on this machine."
